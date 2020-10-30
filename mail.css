@@ -19,7 +19,7 @@ html, body {
 
 .wrapper {
     overflow: hidden; /* если какой-то элемент вылазит за видимые границы, то он будет обрезан */ 
-    min-width: 1310px;
+    min-width: 1440px;
 }
 
 .container {
